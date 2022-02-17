@@ -1,4 +1,4 @@
-#Smart bank
+#SmartBank
 This is a smart bank project with below features implemented:
 
 deposit money
